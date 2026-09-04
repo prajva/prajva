@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Prajwal 👋</h1>
+<h1 align="center">Hi there, I'm Prajval 👋</h1>
 <h3 align="center">A passionate CS undergrad turning ideas into web apps, mobile solutions, and games 🚀</h3>
 
 <br>

@@ -40,7 +40,7 @@
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
 | **[GEO-CHAKSHU](https://github.com/prajva/GEO-CHAKSHU)** | Infrastructure project monitoring and data tracking dashboard. | Python, Streamlit |
-| **[V-Split](https://github.com/prajva/V-Split)** | Real-time Android ride-sharing app for students with dark mode support. | Java, Android, Firebase |
+| **[V-Split](https://github.com/prajva/V-Split)** | Real-time Android ride-sharing app for students. | Java, Android, Firebase |
 
 ---
 
@@ -55,4 +55,4 @@
 
 ### 📬 Connect With Me
 * **GitHub:** [prajva](https://github.com/prajva)
-* **LinkedIn:** [Add your LinkedIn link here]
+* **LinkedIn:** [Prajval kedlaya](https://www.linkedin.com/in/prajval-kedlaya-069b32397/)

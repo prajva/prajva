@@ -1,6 +1,19 @@
-### Hi there, I'm Prajwal 👋
+<h1 align="center">Hi there, I'm Prajwal 👋</h1>
+<h3 align="center">A passionate CS undergrad turning ideas into web apps, mobile solutions, and games 🚀</h3>
 
-I'm a computer science undergraduate and developer focused on building web applications, Android apps, and interactive experiences.
+<br>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=prajva&style=for-the-badge&color=blueviolet" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/prajva?style=for-the-badge&color=orange&logo=github" alt="GitHub Followers" />
+</p>
+
+---
+
+### 💡 About Me
+* 💻 I'm a computer science undergraduate studying at **VIT-AP University**.
+* 🧠 Passionate about full-stack web development, Android applications, and game mechanics.
+* ⚡ Currently building interactive Streamlit dashboards, ride-sharing systems, and 2D Unity games.
 
 ---
 
@@ -22,6 +35,24 @@ I'm a computer science undergraduate and developer focused on building web appli
 
 ---
 
+### 📌 Featured Projects
+
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **[GEO-CHAKSHU](https://github.com/prajva/GEO-CHAKSHU)** | Infrastructure project monitoring and data tracking dashboard. | Python, Streamlit |
+| **[V-Split](https://github.com/prajva/V-Split)** | Real-time Android ride-sharing app for students with dark mode support. | Java, Android, Firebase |
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=prajva&show_icons=true&theme=radical&hide_border=true" alt="Prajwal's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajva&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
+</p>
+
+---
+
 ### 📬 Connect With Me
 * **GitHub:** [prajva](https://github.com/prajva)
-* **LinkedIn:** [Prajval Kedlaya](https://www.linkedin.com/in/prajval-kedlaya-069b32397/).
+* **LinkedIn:** [Add your LinkedIn link here]

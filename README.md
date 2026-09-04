@@ -10,10 +10,10 @@
 
 ---
 
-### 💡 About Me
-* 💻 I'm a computer science undergraduate studying at **VIT-AP University**.
-* 🧠 Passionate about full-stack web development, Android applications, and game mechanics.
-* ⚡ Currently building interactive Streamlit dashboards, ride-sharing systems, and 2D Unity games.
+###  About Me
+*  I'm a computer science undergraduate studying at **VIT-AP University**.
+*  Passionate about full-stack web development, Android applications, and game mechanics.
+*  Currently building interactive Streamlit dashboards, ride-sharing systems, and 2D Unity games.
 
 ---
 

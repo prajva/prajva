@@ -24,4 +24,4 @@ I'm a computer science undergraduate and developer focused on building web appli
 
 ### 📬 Connect With Me
 * **GitHub:** [prajva](https://github.com/prajva)
-* **LinkedIn:** [Your LinkedIn Profile URL]
+* **LinkedIn:** [Prajval Kedlaya](https://www.linkedin.com/in/prajval-kedlaya-069b32397/).
